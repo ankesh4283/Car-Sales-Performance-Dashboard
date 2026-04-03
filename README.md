@@ -191,7 +191,6 @@ This project demonstrates how data analytics and visualization can help automoti
 
 ## 📷 Dashboard Preview  
 
-_Add your dashboard screenshots below:_  
 
-![Dashboard Image 1]([your-image-link-here](https://github.com/ankesh4283/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dashboard%20Page%201.png))  
-![Dashboard Image 2]([your-image-link-here](https://github.com/ankesh4283/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dashboard%20Page%202.png))  
+![Dashboard Image 1]([https://github.com/ankesh4283/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dashboard%20Page%201.png])  
+![Dashboard Image 2]([https://github.com/ankesh4283/Car-Sales-Performance-Dashboard/blob/main/Car%20Sales%20Dashboard%20Page%202.png])  
